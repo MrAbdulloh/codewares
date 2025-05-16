@@ -1,0 +1,1 @@
+SELECT number, -number AS res FROM opposite;
